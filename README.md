@@ -1,1 +1,2 @@
 # Assignment-4
+For this assignment, I used the latest movie csv file provided to sort into genres. I separated movies by genre and date, once I read in the file. I also used linked list to sort the genres and movies alphabetically, which then gets put into a new file I created in my program titled "placeholder". I did not add any graphical interfaces to this project, unfortunately, since creating a graph through one is challenging. The data would appear as a list in the placeholder file, alphabetically sorted, where the user can interact with the file from there. 
